@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noam Milner
 ===================================================================================================================================
 
-Full stack Web Developer
+Full Stack Web Developer
 ------------------------
 
 Coming from the IT and system administration world, thanks to PowerShell and Python scripts and other low-code platforms, I have slowly developed passion for writing code. Now that’s the only thing I want to do. I absolutely love the sweet feeling of finally solving a challenge, fixing a bug, learning a new skill / technology and am very much eager to learn from others.
