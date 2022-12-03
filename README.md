@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Coming from the IT and system administration world, starting with PowerShell, Python scripts and other low-code platforms, I have slowly developed passion for writing code. Now that’s the only thing I want to do. I absolutely love the sweet feeling of finally solving a challenge, fixing a bug, learning a new skill / technology and am very much eager to learn from others.
+Coming from the IT and system administration world, starting with PowerShell, Python scripts and other low-code platforms, I have slowly developed apetite for writing code and web apps. Here you can find some projects I did for fun.
 
 *   🌍  I'm based in Tel Aviv
 *   ✉️  You can contact me at [milner.noam@gmail.com](mailto:milner.noam@gmail.com)
